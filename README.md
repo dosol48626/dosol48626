@@ -1,3 +1,13 @@
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/dosol48626"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:150745,100:000000&height=120&text=Always%20learning,%20always%20evolving.&animation=&fontColor=ffffff&fontSize=40" />
     </div>
