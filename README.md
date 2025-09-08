@@ -22,7 +22,6 @@
 <div style="background-color: #21262d; border-radius: 15px; padding: 20px; margin: 20px 0; color: #c9d1d9; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
     <h2 style="border-bottom: 2px solid #c9d1d9; padding-bottom: 10px;">🛠️ Tech Stacks</h2>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start; padding: 10px;">
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" style="border-radius: 10px;">
         <img src="https://img.shields.io/badge/Spring Legacy-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" style="border-radius: 10px;">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" style="border-radius: 10px;">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="border-radius: 10px;">
@@ -36,7 +35,6 @@
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" style="border-radius: 10px;">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" style="border-radius: 10px;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="border-radius: 10px;">
-        <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black" style="border-radius: 10px;">
     </div>
 </div>
 
