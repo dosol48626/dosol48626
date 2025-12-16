@@ -21,15 +21,14 @@
 <div style="background-color: #21262d; border-radius: 15px; padding: 20px; margin: 25px 0; color: #c9d1d9;">
   <h3>🙃 그냥 쓰는 공간</h3>
   <p style="font-size: 14px; line-height: 1.8;">
-    취업용 포장 다 끝.<br/>
     이제는 공부한 거, 삽질한 거, 기록 남기는 용도.<br/>
-    캠핑 가고 싶다는 생각이 가끔 코드보다 앞설 때가 있음.
+    캠핑 가고 싶어.
   </p>
 </div>
 
 <!-- 기술 스택 -->
 <div style="background-color: #21262d; border-radius: 15px; padding: 20px; margin: 25px 0; color: #c9d1d9;">
-  <h3>🛠️ 요즘 만지는 것들</h3>
+  <h3>🛠️ 이거 그래도 좀 함 ㅎㅎ </h3>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
@@ -44,5 +43,5 @@
 
 <!-- 한 줄 마무리 -->
 <div align="center" style="color: #8b949e; font-size: 13px;">
-  필요해서 만들고, 귀찮아서 남겨둠.
+  으어어어어엉
 </div>
