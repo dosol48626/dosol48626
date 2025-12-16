@@ -13,7 +13,7 @@
 </div>
 
 <div style="background-color: #21262d; border-radius: 15px; padding: 20px; margin: 20px 0; color: #c9d1d9; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-    <h2 style="border-bottom: 2px solid #c9d1d9; padding-bottom: 10px;">🌱 꾸준한 노력과 배움을 통해 성장하는 도솔입니다.</h2>
+    <h2 style="border-bottom: 2px solid #c9d1d9; padding-bottom: 10px;">🌱 캠핑가고싶다 🌱.</h2>
     <p style="font-weight: 500; font-size: 15px; line-height: 1.8; text-align: justify;">
         으어어어엉. 하찮은 나의 깃허브 레퍼지토오리.
     </p>
