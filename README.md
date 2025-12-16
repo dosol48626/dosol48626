@@ -15,7 +15,7 @@
 <div style="background-color: #21262d; border-radius: 15px; padding: 20px; margin: 20px 0; color: #c9d1d9; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
     <h2 style="border-bottom: 2px solid #c9d1d9; padding-bottom: 10px;">🌱 꾸준한 노력과 배움을 통해 성장하는 도솔입니다.</h2>
     <p style="font-weight: 500; font-size: 15px; line-height: 1.8; text-align: justify;">
-        작은 성과도 소중히 여기며, 이를 바탕으로 더 큰 도전을 이어갑니다. 항상 최선을 다해 긍정적인 변화를 만들어가는 사람이 되고자 합니다.
+        으어어어엉. 하찮은 나의 깃허브 레퍼지토오리.
     </p>
 </div>
 
